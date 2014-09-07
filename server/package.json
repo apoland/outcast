@@ -1,0 +1,26 @@
+{
+  "name": "outcast-server",
+  "version": "1.0.0",
+  "description": "outcast =======",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apoland/outcast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoland/outcast/issues"
+  },
+  "homepage": "https://github.com/apoland/outcast",
+  "dependencies": {
+    "express": "^4.8.8"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
